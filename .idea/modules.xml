@@ -4,7 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/UnityAndroidPlugin.iml" filepath="$PROJECT_DIR$/UnityAndroidPlugin.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/unity/unity.iml" filepath="$PROJECT_DIR$/unity/unity.iml" />
       <module fileurl="file://$PROJECT_DIR$/unityandroidplugin2/unityandroidplugin2.iml" filepath="$PROJECT_DIR$/unityandroidplugin2/unityandroidplugin2.iml" />
+      <module fileurl="file://E:\UnityProject\UnityAndroidPlugin\unityandroidplugin2\unityandroidplugin2.iml" filepath="E:\UnityProject\UnityAndroidPlugin\unityandroidplugin2\unityandroidplugin2.iml" />
     </modules>
   </component>
 </project>
